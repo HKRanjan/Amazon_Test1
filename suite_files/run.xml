@@ -1,0 +1,12 @@
+<suite name="Amazon">
+    <test name="selectproduct">
+
+        <listners>
+            <listner name="TestListener"/>
+        </listners>
+        <classes>
+            <class name="tests.AmazonSelectProductTest"/>
+
+        </classes>
+    </test>
+</suite>
